@@ -1,0 +1,13 @@
+==============================================================
+  Requirements
+==============================================================
+
+Used sources:
+----------------
+
+- AudioToolkit: https://assetstore.unity.com/packages/tools/audio/audio-toolkit-free-version-2679
+
+- Animated 2D treasure box: https://assetstore.unity.com/packages/tools/audio/audio-toolkit-free-version-2679
+
+- TextMeshPro
+
