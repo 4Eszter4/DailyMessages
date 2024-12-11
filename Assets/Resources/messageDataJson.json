@@ -1,0 +1,20 @@
+{
+    "messages": [
+        "Message1",
+        "Message2",
+        "Message3"
+    ],
+    "motivation": [
+        "Motivation1",
+        "Motivation2",
+        "Motivation3",
+        "Motivation4"
+    ],
+    "love": [
+        "Love1",
+        "Love2",
+        "love3",
+        "Love4",
+        "Love5"
+    ]
+}
