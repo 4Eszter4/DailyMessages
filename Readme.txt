@@ -18,6 +18,11 @@ Application can run in the backgroud.
 The more computation demanding parts, such as particle system or disturbing audio effect are switched off after loading and first impression.
 
 
+DEMO video:
+-----------
+https://www.youtube.com/watch?v=MLatqGwnwvM
+
+
 Used sources:
 ----------------
 
